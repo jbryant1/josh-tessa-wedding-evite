@@ -1,0 +1,23 @@
+{
+  "name": "josh-tessa-wedding-evite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbryant1/josh-tessa-wedding-evite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbryant1/josh-tessa-wedding-evite/issues"
+  },
+  "homepage": "https://github.com/jbryant1/josh-tessa-wedding-evite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
