@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jbryant1/josh-tessa-wedding-evite#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gatsby-cli": "^4.0.0"
   }
 }
